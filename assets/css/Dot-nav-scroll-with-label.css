@@ -1,0 +1,12 @@
+p {
+  color: #d3b58d;
+}
+
+.form-input :focus {
+  outline-color: #36D7A8;
+}
+
+*:focus {
+  outline-color: #36D7A8;
+}
+
